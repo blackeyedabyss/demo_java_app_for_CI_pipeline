@@ -20,7 +20,7 @@ pipeline{
             steps{
             gitCheckout(
                 branch: "main",
-                url: "<Add the URL for the Github repo of the code's folder.>"
+                url: "https://github.com/blackeyedabyss/demo_java_app_for_CI_pipeline"
             )
             }
         }
