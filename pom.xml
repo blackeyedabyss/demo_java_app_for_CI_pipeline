@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.minikube.sample</groupId>
     <artifactId>yashs_java_app</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.2-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>minikube-sample</name>
     <description>Demo project for Spring Cloud Kubernetes</description>
