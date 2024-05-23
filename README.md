@@ -17,3 +17,7 @@ Detailed Instructions:
 Link to the Jenkins Shared Library Code:
 -------
     https://github.com/blackeyedabyss/jenkins_shared_library
+
+Link to the showcase video of the project:
+-------
+    https://www.linkedin.com/feed/update/urn:li:activity:7181539873449754625/
